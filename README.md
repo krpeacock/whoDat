@@ -7,6 +7,8 @@ This is partially a resource that I wanted for myself, but it also seems like a 
 
 Fill an empty tile with your information and link to a profile picture in the images folder. Use my tile as a template. 
 
+Make sure to add this repo as a remote so that your fork stays up to date.
+
 Once your information is up, make sure your tile is in alphabetical order. The "search bar" at the top does nothing, but ctrl + f should suffice for now. 
 
 ###Updating the website
